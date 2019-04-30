@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="mariokart.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <title>Klassement</title>
+  </head>
+  <body>
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top" id="navvie">
+  <div class="container">
+    <a class="navbar-brand" href="#"><img class="mario" src="fotos/mario.png"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav justify-content-end">
+        <li class="nav-item">
+          <a class="nav-link" href="reglement.html">Reglement</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="ranglijs.html">Klassement</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="schema.html">Schema</a>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+</nav>
+
+<div class="scores container">
+  <h2 class="text-center">Individueel Klassement</h2>
+  <div class="row justify-content-center">
+    <div class="card col-7 col-lg-3 vis">
+      <img class="border-0 foto" src="fotos/robbert.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h1 class="card-text text-center borderino">Robbert</h1>
+        <h4 class="card-text text-center pb-1 grijze">32 pts</h3>
+      </div>
+      <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
+    </div>
+
+    <div class="card col-7 col-lg-3 vis">
+      <img class="border-0 foto" src="fotos/roxanne.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h1 class="card-text text-center borderino">Roxanne</h1>
+        <h4 class="card-text text-center pb-1 grijze">24 pts</h3>
+      </div>
+      <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
+    </div>
+
+    <div class="card col-7 col-lg-3 vis">
+      <img class="border-0 foto" src="fotos/dirk.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h1 class="card-text text-center borderino">Dirk</h1>
+        <h4 class="card-text text-center pb-1 grijze">11 pts</h3>
+      </div>
+      <span class="icon3 text-center p-2"><i class="fas fa-medal"></i></span>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="borderino2 ruimte"></div>
+</div>
+
+<div class="container">
+  <h2 class="text-center pb-2" >Projectklassement</h2>
+  <div class="row justify-content-center">
+    <div class="card col-7 col-lg-3 vis">
+      <img class="border-0 foto2" id = solarge src="fotos/solarge.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h4 class="card-text text-center pb-1 grijze" id = sp>32 pts</h3>
+      </div>
+      <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
+    </div>
+
+    <div class="card col-7 col-lg-3 vis">
+      <img class="border-0 foto2" src="fotos/ste.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h4 class="card-text text-center pb-1 grijze">24 pts</h3>
+      </div>
+      <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="borderino2 ruimte"></div>
+</div>
+
+<div class="container">
+  <h2 class="text-center pb-4">Puntenoverzicht</h2>
+  <table id = tabel class="table table-striped">
+
+  <tbody>
+    <tr>
+      <td>Robbert</td>
+      <td>24 pts</td>
+    </tr>
+
+    <tr>
+      <td>Roxanne</td>
+      <td>24 pts</td>
+    </tr>
+    <tr>
+      <td>Dirk</td>
+      <td>11 pts</td>
+    </tr>
+
+    <tr>
+      <td>Olivia</td>
+      <td>24 pts</td>
+    </tr>
+
+    <tr>
+      <td>Binke</td>
+      <td>24 pts</td>
+    </tr>
+
+    <tr>
+      <td>Bas</td>
+      <td>24 pts</td>
+    </tr>
+
+    <tr>
+      <td>Yuri</td>
+      <td>24 pts</td>
+    </tr>
+
+    <tr>
+      <td>Francois</td>
+      <td>24 pts</td>
+    </tr>
+
+    <tr>
+      <td>Carmen</td>
+      <td>24 pts</td>
+    </tr>
+
+    <tr>
+      <td>Melissa</td>
+      <td>24 pts</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="container">
+  <div class="borderino2 ruimte"></div>
+</div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
