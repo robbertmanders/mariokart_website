@@ -1,5 +1,6 @@
 body {
 	background-image: url("achtergrond.png");
+	background-size: cover;
 }
 
 #navvie {
