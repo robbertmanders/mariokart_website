@@ -164,6 +164,7 @@
     <tr>
       <td>Patrick</td>
       <td>0 pts</td>
+      <td>Solarge</td>
     </tr>
   </tbody>
 </table>
