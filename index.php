@@ -31,7 +31,7 @@
           <a class="nav-link" href="reglement.html">Reglement</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="ranglijs.html">Klassement</a>
+          <a class="nav-link" href="index.php">Klassement</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="schema.html">Schema</a>
@@ -49,7 +49,7 @@
       <img class="border-0 foto" src="fotos/robbert.jpg" alt="Card image cap">
       <div class="card-body">
         <h1 class="card-text text-center borderino">Robbert</h1>
-        <h4 class="card-text text-center pb-1 grijze">32 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
       </div>
       <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
@@ -58,7 +58,7 @@
       <img class="border-0 foto" src="fotos/roxanne.jpg" alt="Card image cap">
       <div class="card-body">
         <h1 class="card-text text-center borderino">Roxanne</h1>
-        <h4 class="card-text text-center pb-1 grijze">24 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
       </div>
       <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
@@ -67,7 +67,7 @@
       <img class="border-0 foto" src="fotos/dirk.jpg" alt="Card image cap">
       <div class="card-body">
         <h1 class="card-text text-center borderino">Dirk</h1>
-        <h4 class="card-text text-center pb-1 grijze">11 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
       </div>
       <span class="icon3 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
@@ -110,51 +110,60 @@
   <tbody>
     <tr>
       <td>Robbert</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>Solarge</td>
     </tr>
 
     <tr>
       <td>Roxanne</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>STE</td>
     </tr>
     <tr>
       <td>Dirk</td>
-      <td>11 pts</td>
+      <td>0 pts</td>
+      <td>STE</td>
     </tr>
 
     <tr>
       <td>Olivia</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>STE</td>
     </tr>
 
     <tr>
       <td>Binke</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>Solarge</td>
     </tr>
 
     <tr>
       <td>Bas</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>STE</td>
     </tr>
 
     <tr>
       <td>Yuri</td>
-      <td>24 pts</td>
-    </tr>
-
-    <tr>
-      <td>Francois</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>Solarge</td>
     </tr>
 
     <tr>
       <td>Carmen</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>Solarge</td>
     </tr>
 
     <tr>
       <td>Melissa</td>
-      <td>24 pts</td>
+      <td>0 pts</td>
+      <td>STE</td>
+    </tr>
+
+    <tr>
+      <td>Patrick</td>
+      <td>0 pts</td>
     </tr>
   </tbody>
 </table>
