@@ -138,8 +138,8 @@
     </tr>
 
     <tr>
-      <td>Bas</td>
-      <td>11 pts</td>
+      <td>Legend</td>
+      <td>48 pts</td>
       <td>STE</td>
     </tr>
 
