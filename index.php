@@ -82,19 +82,19 @@
   <h2 class="text-center pb-2" >Projectklassement</h2>
   <div class="row justify-content-center">
     <div class="card col-7 col-lg-3 vis">
-      <img class="border-0 foto2" id = solarge src="fotos/ste.jpg" alt="Card image cap">
+      <img class="border-0 foto2" id = solarge src="fotos/solarge.jpg" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-text text-center pb-1 grijze" id = sp>27 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze" id = sp>16 pts</h3>
       </div>
-      <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
+      <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
 
     <div class="card col-7 col-lg-3 vis">
       <img class="border-0 foto2" src="fotos/ste.jpg" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-text text-center pb-1 grijze">16 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">27 pts</h3>
       </div>
-      <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
+      <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
   </div>
 </div>
