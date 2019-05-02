@@ -55,9 +55,9 @@
     </div>
 
     <div class="card col-7 col-lg-3 vis">
-      <img class="border-0 foto" src="fotos/roxanne.jpg" alt="Card image cap">
+      <img class="border-0 foto" src="fotos/patrick.jpg" alt="Card image cap">
       <div class="card-body">
-        <h1 class="card-text text-center borderino">Roxanne</h1>
+        <h1 class="card-text text-center borderino">Patrick</h1>
         <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
       </div>
       <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
