@@ -110,13 +110,13 @@
   <tbody>
     <tr>
       <td>Robbert</td>
-      <td>1 pts</td>
+      <td>16 pts</td>
       <td>Solarge</td>
     </tr>
 
     <tr>
       <td>Roxanne</td>
-      <td>15 pts</td>
+      <td>25 pts</td>
       <td>STE</td>
     </tr>
     <tr>
@@ -127,13 +127,13 @@
 
     <tr>
       <td>Olivia</td>
-      <td>0 pts</td>
+      <td>1 pts</td>
       <td>STE</td>
     </tr>
 
     <tr>
       <td>Binke</td>
-      <td>3 pts</td>
+      <td>6 pts</td>
       <td>Solarge</td>
     </tr>
 
@@ -151,7 +151,7 @@
 
     <tr>
       <td>Carmen</td>
-      <td>1 pts</td>
+      <td>2 pts</td>
       <td>Solarge</td>
     </tr>
 
