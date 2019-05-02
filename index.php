@@ -55,7 +55,7 @@
     </div>
 
     <div class="card col-7 col-lg-3 vis">
-      <img class="border-0 foto" src="fotos/patrick.jpg" alt="Card image cap">
+      <img class="border-0 foto" src="fotos/binke.jpg" alt="Card image cap">
       <div class="card-body">
         <h1 class="card-text text-center borderino">Patrick</h1>
         <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
