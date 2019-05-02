@@ -67,7 +67,7 @@
       <img class="border-0 foto" src="fotos/bas.jpg" alt="Card image cap">
       <div class="card-body">
         <h1 class="card-text text-center borderino">Bas</h1>
-        <h4 class="card-text text-center pb-1 grijze">8 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">9 pts</h3>
       </div>
       <span class="icon3 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
@@ -84,17 +84,17 @@
     <div class="card col-7 col-lg-3 vis">
       <img class="border-0 foto2" id = solarge src="fotos/solarge.jpg" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-text text-center pb-1 grijze" id = sp>26 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze" id = sp>36 pts</h3>
       </div>
-      <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
+      <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
 
     <div class="card col-7 col-lg-3 vis">
       <img class="border-0 foto2" src="fotos/ste.jpg" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-text text-center pb-1 grijze">29 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">32 pts</h3>
       </div>
-      <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
+      <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
   </div>
 </div>
@@ -110,7 +110,7 @@
   <tbody>
     <tr>
       <td>Robbert</td>
-      <td>0 pts</td>
+      <td>1 pts</td>
       <td>Solarge</td>
     </tr>
 
@@ -121,7 +121,7 @@
     </tr>
     <tr>
       <td>Dirk</td>
-      <td>6 pts</td>
+      <td>8 pts</td>
       <td>STE</td>
     </tr>
 
@@ -145,7 +145,7 @@
 
     <tr>
       <td>Yuri</td>
-      <td>9 pts</td>
+      <td>24 pts</td>
       <td>Solarge</td>
     </tr>
 
@@ -157,7 +157,7 @@
 
     <tr>
       <td>Melissa</td>
-      <td>0 pts</td>
+      <td>1 pts</td>
       <td>STE</td>
     </tr>
 
