@@ -46,10 +46,10 @@
   <h2 class="text-center">Individueel Klassement</h2>
   <div class="row justify-content-center">
     <div class="card col-7 col-lg-3 vis">
-      <img class="border-0 foto" src="fotos/robbert.jpg" alt="Card image cap">
+      <img class="border-0 foto" src="fotos/roxanne.jpg" alt="Card image cap">
       <div class="card-body">
-        <h1 class="card-text text-center borderino">Robbert</h1>
-        <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
+        <h1 class="card-text text-center borderino">Roxette</h1>
+        <h4 class="card-text text-center pb-1 grijze">15 pts</h3>
       </div>
       <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
@@ -58,16 +58,16 @@
       <img class="border-0 foto" src="fotos/patrick.jpg" alt="Card image cap">
       <div class="card-body">
         <h1 class="card-text text-center borderino">Patrick</h1>
-        <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">12 pts</h3>
       </div>
       <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
 
     <div class="card col-7 col-lg-3 vis">
-      <img class="border-0 foto" src="fotos/dirk.jpg" alt="Card image cap">
+      <img class="border-0 foto" src="fotos/bas.jpg" alt="Card image cap">
       <div class="card-body">
-        <h1 class="card-text text-center borderino">Dirk</h1>
-        <h4 class="card-text text-center pb-1 grijze">0 pts</h3>
+        <h1 class="card-text text-center borderino">Bas</h1>
+        <h4 class="card-text text-center pb-1 grijze">8 pts</h3>
       </div>
       <span class="icon3 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
@@ -82,9 +82,9 @@
   <h2 class="text-center pb-2" >Projectklassement</h2>
   <div class="row justify-content-center">
     <div class="card col-7 col-lg-3 vis">
-      <img class="border-0 foto2" id = solarge src="fotos/solarge.jpg" alt="Card image cap">
+      <img class="border-0 foto2" id = solarge src="fotos/ste.jpg" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-text text-center pb-1 grijze" id = sp>1 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze" id = sp>27 pts</h3>
       </div>
       <span class="icon text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
@@ -92,7 +92,7 @@
     <div class="card col-7 col-lg-3 vis">
       <img class="border-0 foto2" src="fotos/ste.jpg" alt="Card image cap">
       <div class="card-body">
-        <h4 class="card-text text-center pb-1 grijze">4 pts</h3>
+        <h4 class="card-text text-center pb-1 grijze">16 pts</h3>
       </div>
       <span class="icon2 text-center p-2"><i class="fas fa-medal"></i></span>
     </div>
